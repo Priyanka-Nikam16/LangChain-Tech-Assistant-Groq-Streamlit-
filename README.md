@@ -7,7 +7,7 @@ If a query falls outside scope, the assistant replies with "I don't know".
 
 ---
 ## 🚀 Features
-- **Streamlit UI** with modern `st.chat_input` interface
+- **Streamlit UI** using `st.text_input` for user queries
 - **LangChain integration** for chains, agents, and memory
 - **Groq backend** for fast LLM inference
 - **Custom prompt template** enforcing domain-specific responses
